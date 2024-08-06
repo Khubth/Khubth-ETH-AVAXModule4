@@ -4,15 +4,15 @@
 DegenToken is an ERC20 token deployed on the Avalanche network for Degen Gaming. This smart contract allows the owner to mint new tokens, and players to transfer, redeem, and burn tokens. Players can also check their token balances at any time.
 
 # Features
-# Minting New Tokens:
+## Minting New Tokens:
 * The platform owner can mint new tokens and distribute them to players as rewards.
-# Transferring Tokens: 
+## Transferring Tokens: 
 * Players can transfer their tokens to others.
-# Redeeming Tokens: 
+## Redeeming Tokens: 
 * Players can redeem their tokens for items in the in-game store.
-# Checking Token Balance: 
+## Checking Token Balance: 
 * Players can check their token balance at any time.
-# Burning Tokens: 
+## Burning Tokens: 
 * Players can burn tokens that they own and no longer need.
 
 # Deployment
