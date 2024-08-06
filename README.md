@@ -45,11 +45,11 @@ DegenToken is an ERC20 token deployed on the Avalanche network for Degen Gaming.
 * Paste the address in the Snowtrace testnet search bar to view the transaction history.
 
 # Usage
-1.Mint Tokens: Only the owner can call the mint function to create new tokens.
-2.Transfer Tokens: Use the transfer function to send tokens to another address.
-3.Redeem Tokens: Call the redeem function to exchange tokens for in-game items.
-4.Check Balance: Use the balanceOf function to view your token balance.
-5.Burn Tokens: Call the burn function to destroy unwanted tokens.
+* Mint Tokens: Only the owner can call the mint function to create new tokens.
+* Transfer Tokens: Use the transfer function to send tokens to another address.
+* Redeem Tokens: Call the redeem function to exchange tokens for in-game items.
+* Check Balance: Use the balanceOf function to view your token balance.
+* Burn Tokens: Call the burn function to destroy unwanted tokens.
 
 # Events
 ItemRedeemed: This event is emitted when a player redeems tokens for an item.
