@@ -18,9 +18,9 @@ DegenToken is an ERC20 token deployed on the Avalanche network for Degen Gaming.
 # Deployment
 * To deploy this contract on the Avalanche network using Remix IDE and MetaMask, follow these steps:
 
-1 Open Remix IDE: Go to Remix IDE.
+ 1. Open Remix IDE: Go to Remix IDE.
 
-2.Load Contract Code: Copy the smart contract code and paste it into a new file in Remix IDE.
+ 2. Load Contract Code: Copy the smart contract code and paste it into a new file in Remix IDE.
 
 3. Compile the Contract:
 * Click on the "Solidity Compiler" tab.
